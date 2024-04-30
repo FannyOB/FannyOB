@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏾‍💻 I'm full-stack developer.<br>🎓 I recently successfully completed an intensive training program in web development at Ada Tech School.<br>🚀 Now, I am ready to put my skills into practice in the world of programming.<br>🌱 I’m currently learning PostgreSQL, React, Express JS, Node JS.<br>🕹 I learn different languages like HTML, CSS, Javascript, SQL, PHP.<br>⚡️ Fun fact : I like to discover new technology and learn something new every day.
+👩🏾‍💻 I'm full-stack developer.<br>🎓 I recently successfully completed an intensive training program in web development at Ada Tech School.<br>🚀 Now, I am ready to put my skills into practice in the world of programming.<br>🌱 I’m currently learning PostgreSQL, React, Express JS, Node JS.<br>🕹 I learn different languages like HTML, CSS, Javascript, SQL, PHP.<br>⚡️ Fun fact : I like to discover new technology and learn something new every day.<br>📫 How to reach me: fanny.olengabinene@laposte.net
 
 
 ## 🌐 Socials:
